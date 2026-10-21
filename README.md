@@ -1,6 +1,6 @@
-**Ferns and Petals (FNP) Sales Analysis using Excel**
+# Ferns and Petals (FNP) Sales Analysis using Excel
 
-*Project Overview*
+**Project Overview**
 
 This project analyzes sales data from Ferns and Petals (FNP), a gifting company, using Microsoft Excel. The analysis focuses on understanding sales performance, customer purchasing patterns, product revenue, order occasions, and delivery timelines.
 
